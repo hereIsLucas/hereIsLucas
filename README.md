@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas!;" />
+</h1>
+<h3 align="center">A passionate software developer from Switzerland</h3>
 
-<!--
-**hereIsLucas/hereIsLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<div align="center">
+ 
+🔭 I’m currently working on **a airbnb app**
+ 
+🌱 I’m currently learning **Java, Tailwind, React Native Expo**
 
-Here are some ideas to get you started:
+💬 Ask me about **Node.js, React, Firebase, MySQL... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact **my tongue can form a three-leaf-clover**
+
+ </div>
+
