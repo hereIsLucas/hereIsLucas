@@ -33,12 +33,18 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,javascript,git,github,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,figma,vscode,express,firebase,java,docker,aws,kubernetes,nodemon" />
+    <img src="https://skillicons.dev/icons?i=nodejs,figma,vscode,express,firebase,java,docker,aws,kubernetes" />
 </div>
 
 <br/>
 <hr/>
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 <!---
  <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hereIsLucas&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Lucas github stats" /> 
