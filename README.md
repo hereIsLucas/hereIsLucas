@@ -8,11 +8,24 @@
  
 🔭 I’m currently working on **a airbnb app**
  
-🌱 I’m currently learning **Java, Tailwind, React Native Expo**
+🌱 I’m currently learning **Java, Tailwind, Python**
 
 💬 Ask me about **Node.js, React, Firebase, MySQL... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
 ⚡ Fun fact **my tongue can form a three-leaf-clover**
 
  </div>
+<div align="center"> 
+  <a href="mailto:lucas.heroin@stud.kbw.ch">
+    <img src="https://img.shields.io/badge/E-Mail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
+ <hr/>
+ 
