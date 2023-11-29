@@ -44,6 +44,8 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hereIsLucas/hereIsLucas/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
+  <sub><sup>IF THE ANIMATION ISN'T PLAYING :arrow_up:</sup></sub>
+  <sub><sup>RELOAD THE PAGE</sup></sub>
 </div>
 <!---
  <div align="center">  
