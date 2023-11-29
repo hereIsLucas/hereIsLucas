@@ -10,7 +10,7 @@
  
 🌱 I’m currently learning **Java, Tailwind, Python**
 
-💬 Ask me about **Node.js, React, Firebase, MySQL... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase, MySQL... or anything [here](https://github.com/hereIsLucas/hereIsLucas/issues)**
 
 ⚡ Fun fact **my tongue can form a three-leaf-clover**
 
